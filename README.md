@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ATM Machine App for my College Project**
 
-- 🌱 I’m currently learning **Java & Cyber-security**
+- 🌱 I’m currently learning **JSP,JDBC ,Servelet & Cyber-security**
 
 - 🤝 I’m looking for help with **Java Frameworks and API's**
 
