@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkkaarr&label=Profile%20views&color=0e75b6&style=flat" alt="pushkkaarr" /> </p>
 
-- 🔭 I’m currently working on **ATM Machine App for my College Project**
+- 🔭 I’m currently working on **Java Framework Based Projects**
 
 - 🌱 I’m currently learning **JSP,JDBC ,Servelet & Cyber-security**
 
