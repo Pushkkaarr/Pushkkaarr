@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java Framework Based Projects**
 
-- 🌱 I’m currently learning **JSP,JDBC ,Servelet & Cyber-security**
+- 🌱 I’m currently learning **Data Structures and Algorithms in Java**
 
 - 🤝 I’m looking for help with **Java Frameworks and API's**
 
