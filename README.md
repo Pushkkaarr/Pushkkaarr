@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in Java**
 
-- 🤝 I’m looking for help with **Java Frameworks and API's**
+- 🤝 I’m looking for help with **Java Frameworks**
 
 - 📫 How to reach me **pushkarmmhatre3090@gmail.com**
 
