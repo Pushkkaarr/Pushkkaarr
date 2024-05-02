@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Pushkar Mhatre</div>  
+### <div align="center" style="font-size: 24px;">Hi 👋, I'm Pushkar Mhatre</div>
   
 
 - 🔭 I’m currently working on Java Framework Based Projects  
