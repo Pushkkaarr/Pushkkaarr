@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center" style="font-size: 150px;">Hi 👋, I'm Pushkar Mhatre</div>
+<h1 align="center">Hi 👋, I'm Pushkar Mhatre</h1>
+<h3 align="center">A passionate Computer Engineer from India</h3>
   
 
 - 🔭 I’m currently working on Java Framework Based Projects  
