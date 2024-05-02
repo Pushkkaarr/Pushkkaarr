@@ -84,7 +84,7 @@
   
 
 <br/>  
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Pushkkaarr&&style=flat-square" align="center" width="150" height="150" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Pushkkaarr&&style=flat-square" align="center" width="150" height="50" /> </div>
 
 <br/>  
 
