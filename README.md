@@ -54,7 +54,7 @@
 
   ### FrameWorks 
   <div>
-  </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="100" height="50"/> </a>
+  </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://blog.betrybe.com/wp-content/uploads/2021/06/spring-boot.jpg" alt="spring" width="100" height="55"/> </a>
    <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a> 
     <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
 </div>
