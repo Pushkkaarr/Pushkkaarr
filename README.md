@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Engineer from India</h3>
   
 
-- 🔭 I’m currently working on FitSocially - Fitness Tracker Project 
+- 🔭 I’m currently working on Orphan Companion - AI based Empathy-Driven Virtual Parenting Project 
   
 
 - 🌱 I’m currently learning Data Structures and Algorithms in Java  
