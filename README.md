@@ -40,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
-  
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -86,7 +84,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-</div>
+
 </div>
 
 ###
@@ -96,8 +94,16 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pushkkaarr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushkkaarr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img
+    src="https://github-readme-stats-nu-pied.vercel.app/api/top-langs/?username=Pushkkaarr&layout=compact&theme=tokyonight"
+    alt="Top languages"
+    height="160"
+  /> 
+  <img
+    src="https://github-readme-stats-nu-pied.vercel.app/api?username=Pushkkaarr&show_icons=true&theme=synthwave&commits_year=2025&rank_icon=github&hide=issues&show=prs_merged_percentage"
+    alt="GitHub stats"
+    height="160"
+  /><br>
   <img src="https://streak-stats.demolab.com?user=Pushkkaarr&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=Pushkkaarr&theme=tokyonight&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
