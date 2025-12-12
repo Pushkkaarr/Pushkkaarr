@@ -8,7 +8,11 @@
 
 ###
 
-<h4 align="left">A dedicated developer with complementary skills in leadership and software development 💻. Through building practical, impact-driven projects 🚀 and participating in competitive hackathons 🏆, I have strengthened collaboration skills 🤝 and expanded technical expertise through problem-solving 🔧, real-world innovation 💡, and effective teamwork 👥<br><br>🔭 I’m currently working on AI-Powered LCA Tool for Circularity and Sustainability in Metallurgy and Mining<br><br>🌱 I’m currently learning Data Structure and Algorithms , System Design<br><br>👯 I’m looking to collaborate on anything related to Java & SpringBoot .<br><br>📫 How to reach me pushkarmhatre0713@gmail.com</h4>
+<h4 align="left">A dedicated developer with complementary skills in leadership and software development 💻. Through building practical, impact-driven projects 🚀 and participating in competitive hackathons 🏆, I have strengthened collaboration skills 🤝 and expanded technical expertise through problem-solving 🔧, real-world innovation 💡, and effective teamwork 👥<br><br>
+  🔭 I’m currently working on Nuclear Power Plant Fault Diagnosis and Anamoly Detection using Physics Informed Learning<br><br>
+  🌱 I’m currently learning Data Structure and Algorithms , System Design<br><br>
+  👯 I’m looking to collaborate on anything related to Java & SpringBoot .<br><br>
+  📫 How to reach me pushkarmhatre0713@gmail.com</h4>
 
 ###
 
