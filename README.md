@@ -93,24 +93,13 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
-
-###
-
-<div align="left">
-  <img
-    src="https://github-readme-stats-nu-pied.vercel.app/api/top-langs/?username=Pushkkaarr&layout=compact&theme=tokyonight"
-    alt="Top languages"
-    height="160"
-  /> 
-  <img
-    src="https://github-readme-stats-nu-pied.vercel.app/api?username=Pushkkaarr&show_icons=true&theme=synthwave&commits_year=2025&rank_icon=github&hide=issues&show=prs_merged_percentage"
-    alt="GitHub stats"
-    height="160"
-  /><br>
-  <img src="https://streak-stats.demolab.com?user=Pushkkaarr&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=Pushkkaarr&theme=tokyonight&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+        <div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=pushkkaarr&theme=radical&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
+      
+<br />
 
 ###
 
