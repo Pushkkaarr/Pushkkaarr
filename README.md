@@ -97,9 +97,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="50"><br>Gradle
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="50"><br>Tomcat
-</td>
-<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50"><br>Tailwind CSS
 </td>
 <td align="center">
@@ -111,7 +108,7 @@
 </tr>
 
 </table>
-</div>>
+</div>
 
 
 ###
